@@ -21,3 +21,13 @@ COMEÇA COM:
 ### Conventional Commits - https://www.conventionalcommits.org/pt-br/v1.0.0/
 
     Uma espeicificação para dar um significado legível às mensagens de commit para humanos e máquinas.
+
+### FERRAMENTAS PARA CONVENTIONAL COMMIT
+
+    extensão VSCODE - commitinit - https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
+
+    commitsar - https://commitsar.tech/usage/docker
+
+    * commitizen - https://github.com/commitizen/cz-cli
+
+### CommitInit - https://commitinit.js.org

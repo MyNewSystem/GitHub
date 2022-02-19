@@ -2,9 +2,7 @@
 
 Projeto de estudo de padrões e técnicas avançadas com o GitHub
 
-### CONCEITOS SOBRE VERSÃO - SEMVER(Semantical Versioning)
-
-    https://semver.org/lang/pt-BR/
+### CONCEITOS SOBRE VERSÃO - SEMVER(Semantical Versioning) - https://semver.org/lang/pt-BR/
 
 2.1.4
 
@@ -19,3 +17,7 @@ COMEÇA COM:
     MAJOR = 0 - API instável. Pode mudar a qualquer momento.
 
     1.0.0-alpha ou 1.0.0-beta ou 1.0.0-rc0 - Versão menos estável que a versão 1.0.0 (versão que está funcionando).
+
+### Conventional Commits - https://www.conventionalcommits.org/pt-br/v1.0.0/
+
+    Uma espeicificação para dar um significado legível às mensagens de commit para humanos e máquinas.
